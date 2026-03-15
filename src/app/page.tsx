@@ -52,7 +52,7 @@ export default function LandingPage() {
             { text: "Get Free Roof Estimate", href: "#contact" }
           ]}
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg?_wi=1"
           imageAlt="Professional roofers installing residential roof"
           mediaAnimation="slide-up"
           background={{ variant: "plain" }}
@@ -60,19 +60,19 @@ export default function LandingPage() {
           testimonials={[
             {
               name: "Sarah Johnson",              handle: "@cincyhomeowner",              testimonial: "They installed our new roof incredibly fast when we had an urgent leak. Professional and affordable!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/smiley-senior-woman-posing-inside-medium-shot_23-2149833721.jpg",              imageAlt: "Sarah Johnson - Cincinnati homeowner"
+              imageSrc: "http://img.b2bpic.net/free-photo/smiley-senior-woman-posing-inside-medium-shot_23-2149833721.jpg?_wi=1",              imageAlt: "Sarah Johnson - Cincinnati homeowner"
             },
             {
               name: "Michael Chen",              handle: "@satisfiedclient",              testimonial: "Outstanding work on our storm damage repairs. The team was efficient and the quality exceeded expectations.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-working-reception_23-2149963923.jpg",              imageAlt: "Michael Chen - Satisfied customer"
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-working-reception_23-2149963923.jpg?_wi=1",              imageAlt: "Michael Chen - Satisfied customer"
             },
             {
               name: "Emily Rodriguez",              handle: "@homeimprovepro",              testimonial: "Best roofing company in Cincinnati. Honest estimates, licensed crew, and they cleaned up after themselves.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-beautiful-middle-aged-business-woman_1262-3085.jpg",              imageAlt: "Emily Rodriguez - Home improvement professional"
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-beautiful-middle-aged-business-woman_1262-3085.jpg?_wi=1",              imageAlt: "Emily Rodriguez - Home improvement professional"
             },
             {
               name: "David Kim",              handle: "@cincinnatiowner",              testimonial: "Emergency roof repair at midnight. They showed up, fixed it right, and stood behind their work. Highly recommend!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/blonde-woman-showing-thumb-up-red-blouse-looking-happy_176474-19768.jpg",              imageAlt: "David Kim - Cincinnati homeowner"
+              imageSrc: "http://img.b2bpic.net/free-photo/blonde-woman-showing-thumb-up-red-blouse-looking-happy_176474-19768.jpg?_wi=1",              imageAlt: "David Kim - Cincinnati homeowner"
             }
           ]}
           testimonialRotationInterval={6000}
@@ -83,16 +83,16 @@ export default function LandingPage() {
         <TestimonialCardTwelve
           testimonials={[
             {
-              id: "1",              name: "40+ Five-Star Reviews",              imageSrc: "http://img.b2bpic.net/free-photo/smiley-senior-woman-posing-inside-medium-shot_23-2149833721.jpg",              imageAlt: "satisfied customer homeowner smiling portrait"
+              id: "1",              name: "40+ Five-Star Reviews",              imageSrc: "http://img.b2bpic.net/free-photo/smiley-senior-woman-posing-inside-medium-shot_23-2149833721.jpg?_wi=2",              imageAlt: "satisfied customer homeowner smiling portrait"
             },
             {
-              id: "2",              name: "4.9★ Average Rating",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-working-reception_23-2149963923.jpg",              imageAlt: "homeowner smiling customer satisfied photo"
+              id: "2",              name: "4.9★ Average Rating",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-working-reception_23-2149963923.jpg?_wi=2",              imageAlt: "homeowner smiling customer satisfied photo"
             },
             {
-              id: "3",              name: "Licensed & Insured",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-beautiful-middle-aged-business-woman_1262-3085.jpg",              imageAlt: "customer portrait professional headshot smiling"
+              id: "3",              name: "Licensed & Insured",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-beautiful-middle-aged-business-woman_1262-3085.jpg?_wi=2",              imageAlt: "customer portrait professional headshot smiling"
             },
             {
-              id: "4",              name: "24-Hour Emergency Service",              imageSrc: "http://img.b2bpic.net/free-photo/blonde-woman-showing-thumb-up-red-blouse-looking-happy_176474-19768.jpg",              imageAlt: "professional customer testimonial portrait photo"
+              id: "4",              name: "24-Hour Emergency Service",              imageSrc: "http://img.b2bpic.net/free-photo/blonde-woman-showing-thumb-up-red-blouse-looking-happy_176474-19768.jpg?_wi=2",              imageAlt: "professional customer testimonial portrait photo"
             }
           ]}
           cardTitle="Trusted by Cincinnati Homeowners"
@@ -127,7 +127,7 @@ export default function LandingPage() {
           tagAnimation="blur-reveal"
           buttons={[{ text: "Schedule Free Inspection", href: "#contact" }]}
           buttonAnimation="blur-reveal"
-          imageSrc="http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg?_wi=2"
           imageAlt="Our roofing team on site"
           useInvertedBackground={false}
         />
@@ -169,13 +169,13 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           blogs={[
             {
-              id: "1",              category: "West Chester",              title: "West Chester Roofing Services",              excerpt: "Fast, reliable roofing solutions for West Chester homeowners. Emergency repairs available 24/7.",              imageSrc: "http://img.b2bpic.net/free-vector/infographic-australia-map-linear-design_23-2148724473.jpg",              imageAlt: "West Chester, Ohio service area",              authorName: "Cincinnati Advanced Roofing",              authorAvatar: "http://img.b2bpic.net/free-photo/smiley-senior-woman-posing-inside-medium-shot_23-2149833721.jpg",              date: "Serving Daily"
+              id: "1",              category: "West Chester",              title: "West Chester Roofing Services",              excerpt: "Fast, reliable roofing solutions for West Chester homeowners. Emergency repairs available 24/7.",              imageSrc: "http://img.b2bpic.net/free-vector/infographic-australia-map-linear-design_23-2148724473.jpg?_wi=1",              imageAlt: "West Chester, Ohio service area",              authorName: "Cincinnati Advanced Roofing",              authorAvatar: "http://img.b2bpic.net/free-photo/smiley-senior-woman-posing-inside-medium-shot_23-2149833721.jpg",              date: "Serving Daily"
             },
             {
-              id: "2",              category: "Mason",              title: "Mason & Fairfield Roofing",              excerpt: "Expert roof replacement and repair services for Mason and Fairfield communities.",              imageSrc: "http://img.b2bpic.net/free-vector/infographic-australia-map-linear-design_23-2148724473.jpg",              imageAlt: "Mason, Ohio service area",              authorName: "Cincinnati Advanced Roofing",              authorAvatar: "http://img.b2bpic.net/free-photo/front-view-woman-working-reception_23-2149963923.jpg",              date: "Serving Daily"
+              id: "2",              category: "Mason",              title: "Mason & Fairfield Roofing",              excerpt: "Expert roof replacement and repair services for Mason and Fairfield communities.",              imageSrc: "http://img.b2bpic.net/free-vector/infographic-australia-map-linear-design_23-2148724473.jpg?_wi=2",              imageAlt: "Mason, Ohio service area",              authorName: "Cincinnati Advanced Roofing",              authorAvatar: "http://img.b2bpic.net/free-photo/front-view-woman-working-reception_23-2149963923.jpg",              date: "Serving Daily"
             },
             {
-              id: "3",              category: "Blue Ash",              title: "Blue Ash & Sharonville Roofing",              excerpt: "Trusted roofing contractor for Blue Ash, Sharonville, and Forest Park homeowners.",              imageSrc: "http://img.b2bpic.net/free-vector/infographic-australia-map-linear-design_23-2148724473.jpg",              imageAlt: "Blue Ash, Ohio service area",              authorName: "Cincinnati Advanced Roofing",              authorAvatar: "http://img.b2bpic.net/free-photo/smiling-beautiful-middle-aged-business-woman_1262-3085.jpg",              date: "Serving Daily"
+              id: "3",              category: "Blue Ash",              title: "Blue Ash & Sharonville Roofing",              excerpt: "Trusted roofing contractor for Blue Ash, Sharonville, and Forest Park homeowners.",              imageSrc: "http://img.b2bpic.net/free-vector/infographic-australia-map-linear-design_23-2148724473.jpg?_wi=3",              imageAlt: "Blue Ash, Ohio service area",              authorName: "Cincinnati Advanced Roofing",              authorAvatar: "http://img.b2bpic.net/free-photo/smiling-beautiful-middle-aged-business-woman_1262-3085.jpg",              date: "Serving Daily"
             }
           ]}
           animationType="slide-up"
